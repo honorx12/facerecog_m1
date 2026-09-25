@@ -1,0 +1,11 @@
+setuptools<81
+fastapi
+uvicorn[standard]
+python-multipart
+pydantic
+face-recognition
+opencv-python
+numpy
+supabase
+python-dotenv
+openpyxl
